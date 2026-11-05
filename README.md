@@ -9,7 +9,7 @@ Um script simples e eficiente em Shell Script (Bash) para monitorização de con
 | Ficheiro | Descrição |
 | :--- | :--- |
 | [`monitor.sh`](monitor.sh) | Script principal de automação que executa os testes de rede. |
-| `status_servicos.log` | Ficheiro de log gerado automaticamente após a execução. |
+| [`status_servicos.log`](status_servicos.log) | Ficheiro de log gerado automaticamente após a execução. |
 
 ---
 
